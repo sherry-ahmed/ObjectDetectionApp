@@ -1,0 +1,1 @@
+ D:\\flutter_dev\\projects\\plantai\\.dart_tool\\flutter_build\\2be8f95ecd5676e8ceacc5489673fb04\\native_assets.yaml: 
